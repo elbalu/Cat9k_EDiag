@@ -1,0 +1,14 @@
+"summary": [
+      {
+        "name": "Application hosting interface is up",
+        "value": 1
+      },
+      {
+        "name": "No packet errors seen on the interface",
+        "value": 1
+      },
+      {
+        "name": "No MAC Pause frames seen on the interface",
+        "value": 0
+      },
+    ]
